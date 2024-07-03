@@ -1,0 +1,13 @@
+{
+    "item.opensignals.tjcdecortool": "TJC Dekor Item",
+    "block.opensignals.tjcdecor": "TJC Dekor",
+    "property.tjcdecortype.name": "Typ",
+    "property.tjcdecortype.desc": "",
+    "property.value.FAHRGASTANZEIGER": "Fahrgastanzeiger",
+    "property.value.FAHRGASTANZEIGER_DECKE": "Fahrgastanzeiger hängend",
+    "property.value.FAHRGASTANZEIGER_WAND": "Fahrgastanzeiger Wand",
+    "property.value.FAHRPLANAUSHANG": "Fahrplan stehend",
+    "property.value.FAHRPLANAUSHANG_WAND": "Fahrplan hängend",
+    "property.value.TICKETAUTOMAT": "Fahrkartenautomat",
+    "property.value.TICKETAUTOMAT_KLEIN": "Fahrkartenautomat klein"
+}

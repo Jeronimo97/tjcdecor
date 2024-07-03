@@ -1,0 +1,22 @@
+{
+    "systemProperties": {
+        "placementToolName": "tjcdecortool",
+        "canLink": false,
+        "defaultHeight": 0,
+        "signalHeights": {
+            "config(TJCDECORTYPE.TICKETAUTOMAT)": 1,
+            "config(TJCDECORTYPE.FAHRPLANAUSHANG)": 1,
+            "config(TJCDECORTYPE.FAHRPLANAUSHANG_WAND)": 1,
+            "config(TJCDECORTYPE.TICKETAUTOMAT_KLEIN)": 1
+        }
+    },
+    "seProperties": [
+        {
+            "name": "tjcdecortype",
+            "enumClass": "TJCDECORTYPES",
+            "defaultState": "FAHRGASTANZEIGER",
+            "changeableStage": "GUISTAGE",
+            "autoname": false
+        }
+    ]
+}

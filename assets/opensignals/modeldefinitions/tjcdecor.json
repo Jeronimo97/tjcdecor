@@ -1,0 +1,61 @@
+{
+    "textures": {},
+    "models": {
+        "tjc/decor/fahrgastanzeiger": {
+			"textures": [
+				{
+					"blockstate": "with(TJCDECORTYPE.FAHRGASTANZEIGER)"
+				}
+			],
+			"y": 0
+		},
+        "tjc/decor/fahrgastanzeiger_decke": {
+			"textures": [
+				{
+					"blockstate": "with(TJCDECORTYPE.FAHRGASTANZEIGER_DECKE)"
+				}
+			],
+			"y": 0
+		},
+        "tjc/decor/fahrgastanzeiger_wand": {
+			"textures": [
+				{
+					"blockstate": "with(TJCDECORTYPE.FAHRGASTANZEIGER_WAND)"
+				}
+			],
+			"y": 0
+		},
+		"tjc/decor/fahrplanaushang": {
+			"textures": [
+				{
+					"blockstate": "with(TJCDECORTYPE.FAHRPLANAUSHANG)"
+				}
+			],
+			"y": 0
+		},
+		"tjc/decor/fahrplanaushang_wand": {
+			"textures": [
+				{
+					"blockstate": "with(TJCDECORTYPE.FAHRPLANAUSHANG_WAND)"
+				}
+			],
+			"y": 0
+		},
+		"tjc/decor/ticketautomat": {
+			"textures": [
+				{
+					"blockstate": "with(TJCDECORTYPE.TICKETAUTOMAT)"
+				}
+			],
+			"y": 0
+		},
+		"tjc/decor/ticketautomat_einzeln": {
+			"textures": [
+				{
+					"blockstate": "with(TJCDECORTYPE.TICKETAUTOMAT_KLEIN)"
+				}
+			],
+			"y": 0
+		}
+    }
+}

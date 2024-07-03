@@ -1,0 +1,11 @@
+item.tjcdecortool.name=TJC Decor Item
+tile.tjcdecor.name=TJC Decor
+property.tjcdecortype.name=Type
+property.tjcdecortype.desc=
+property.value.FAHRGASTANZEIGER=Platform display
+property.value.FAHRGASTANZEIGER_DECKE=Platform display hanging
+property.value.FAHRGASTANZEIGER_WAND=Platform display wall
+property.value.FAHRPLANAUSHANG=Timetable standing
+property.value.FAHRPLANAUSHANG_WAND=Timetable
+property.value.TICKETAUTOMAT=Ticketmachine
+property.value.TICKETAUTOMAT_KLEIN=Ticketmachine small
