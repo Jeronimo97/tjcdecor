@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench by Mc_Jeronimo",
 	"textures": {
-		"1": "minecraft:blocks/glass",
+		"1": "opensignals:blocks/glass",
 		"3": "opensignals:blocks/tjc/decor/telegrau",
 		"4": "opensignals:blocks/tjc/decor/verkehrsweiss",
 		"6": "opensignals:blocks/tjc/decor/bedienfeld",

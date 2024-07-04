@@ -4,7 +4,7 @@
 		"0": "opensignals:blocks/tjc/decor/aluminiumweiss",
 		"1": "opensignals:blocks/tjc/decor/nachtblau",
 		"3": "opensignals:blocks/tjc/decor/fahrplan",
-		"4": "minecraft:blocks/glass",
+		"4": "opensignals:blocks/glass",
 		"particle": "opensignals:blocks/tjc/decor/aluminiumweiss"
 	},
 	"elements": [

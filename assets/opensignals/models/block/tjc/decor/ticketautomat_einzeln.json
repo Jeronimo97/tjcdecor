@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "opensignals:blocks/tjc/decor/bedienfeld",
 		"1": "opensignals:blocks/tjc/decor/betongrau",
-		"2": "minecraft:blocks/glass",
+		"2": "opensignals:blocks/glass",
 		"3": "opensignals:blocks/tjc/decor/leuchthellrot",
 		"4": "opensignals:blocks/tjc/decor/lichtgrau",
 		"5": "opensignals:blocks/tjc/decor/nachtblau",
